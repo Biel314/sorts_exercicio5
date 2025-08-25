@@ -72,7 +72,7 @@ public class main {
 			System.out.print(resultBubble3[i] + " ");
 		}
 		
-		tam = arr2.length - 1;
+		tam = arr3.length - 1;
 		resultMerge3 = cresc.merge(arr3, 0, tam);
 		
 		System.out.println("\nResultado utilizando MergeSort: ");
